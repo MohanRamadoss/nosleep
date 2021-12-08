@@ -1,0 +1,4 @@
+In many situations, it's really annoying when Windows locks or goes into sleep/screensaver mode when you are working with multiple PCs. I have come across this free utility which helps you to prevent it. The utility is written in AutoIt (basic-like script language for automation in Windows). It is a standalone .exe, while running you can see it in your system tray.
+
+How it works?
+The utility is programmed to move your mouse one pixel to the left and one pixel to the right every 30 seconds. Simple, right?
